@@ -1,4 +1,4 @@
-## <## <img src="https://user-images.githubusercontent.com/73171829/149663932-5bd1bc75-3bc6-436b-8e28-319a843c1a5b.gif" width="85px"> I'm Shashank!
+## <img src="https://user-images.githubusercontent.com/73171829/149663932-5bd1bc75-3bc6-436b-8e28-319a843c1a5b.gif" width="85px"> I'm Shashank!
 <a href="mailto:shashankramesh2002@gmail.com" target="_blank">
 <img src="https://user-images.githubusercontent.com/73171829/149664949-2cf30d4e-49aa-4ded-89ff-fc9e744d9a1f.PNG" width="33px"/>
 <a href="https://www.linkedin.com/in/shashank-ramesh-773a381b2/" target="_blank">
