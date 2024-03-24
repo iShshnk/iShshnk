@@ -9,7 +9,7 @@
 <a href="https://shashankramesh2002.medium.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/73171829/149666463-2087d81c-d9df-4745-9217-25408fc6a882.png" width="30px"/>
   
-#### Shashank is a junior with a major in Artificial Intelligence and Machine Learning. Intrigued by Computer Vision and Cloud Computing. 
+#### Shashank is a senior with a major in Artificial Intelligence and Machine Learning.  Intrigued by Multimodal and Generative AI.
 <img src="https://user-images.githubusercontent.com/73171829/149663097-e77294c3-769c-45ae-92c9-011fbba94965.gif" height="450px" width ="450px" align="left">
 
 <div style="padding-top:1000px; padding-left:500px">
