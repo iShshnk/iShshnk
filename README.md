@@ -4,10 +4,6 @@
 <a href="https://www.linkedin.com/in/shashank-ramesh-773a381b2/" target="_blank">
 <img src="https://user-images.githubusercontent.com/73171829/149664583-e469cfc0-8583-4faa-bf3c-3a1d1f97a57e.png"  width="30px"/>
 </a>
-<a href="https://twitter.com/shashankrameshk" target="_blank">
-<img src="https://user-images.githubusercontent.com/73171829/149664466-4b7fc836-c3fd-4c4d-9062-6e8c264f0e0d.png" width="30px"/>
-<a href="https://shashankramesh2002.medium.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/73171829/149666463-2087d81c-d9df-4745-9217-25408fc6a882.png" width="30px"/>
   
 #### Shashank is a senior with a major in Artificial Intelligence and Machine Learning.  Intrigued by Multimodal and Generative AI.
 <img src="https://user-images.githubusercontent.com/73171829/149663097-e77294c3-769c-45ae-92c9-011fbba94965.gif" height="450px" width ="450px" align="left">
