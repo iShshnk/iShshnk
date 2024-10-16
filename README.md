@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73171829/149664583-e469cfc0-8583-4faa-bf3c-3a1d1f97a57e.png"  width="30px"/>
 </a>
   
-#### Hello! I'm Shashank Ramesh, an AI Engineer currently interning at SISA. I have a strong background in GenAI and Machine Learning, having recently completed my Bachelor's degree in AI & ML from BMSIT.
+#### Hello! I'm Shashank Ramesh. I'm currently building AI/ML Solutions for Cybersecurity Products at SISA as a Machine Learning Engineer. I have a strong background in GenAI and Machine Learning, having recently completed my Bachelor's degree in AI & ML from BMSIT.
 <img src="https://user-images.githubusercontent.com/73171829/149663097-e77294c3-769c-45ae-92c9-011fbba94965.gif" height="450px" width ="450px" align="left">
 
 <div style="padding-top:1000px; padding-left:500px">
