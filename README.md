@@ -27,12 +27,3 @@ AI Security Engineer at **SISA**, specializing in the design and deployment of A
   * Engineering AI/ML architectures to enhance automated threat analysis and security workflows.
 * **Bachelor of Engineering (B.E.) in AI & Machine Learning** | *BMS Institute of Technology and Management (BMSIT)*
   * Specialized in Machine Learning algorithms, Deep Learning, and Intelligent Systems.
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top Languages" />
-</p>
