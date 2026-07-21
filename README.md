@@ -1,47 +1,38 @@
-# Hi there, I'm Shashank Ramesh 👋
+# Shashank Ramesh
+**AI Security Engineer | Generative AI & Machine Learning Specialist**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shashank-ramesh-773a381b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shashankramesh2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/shashank-ramesh-773a381b2/) • [Email](mailto:shashankramesh2002@gmail.com) • [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
-## 🛡️ About Me
+## Executive Summary
 
-I am an **AI Security Engineer** at **SISA**, specializing in building **AI/ML solutions for Cybersecurity products**. I bridge the gap between cutting-edge Artificial Intelligence and robust threat detection systems.
-
-* 🔭 **Currently:** Architecting AI/ML-driven security tools at SISA.
-* 🎓 **Education:** B.E. in **Artificial Intelligence & Machine Learning** from BMSIT.
-* 🧠 **Core Focus:** Generative AI, LLM Security, Threat Intelligence & Machine Learning.
-* 💬 **Ask me about:** GenAI applications, AI/ML model security, and data-driven defense strategies.
-* 📫 **Reach me at:** [shashankramesh2002@gmail.com](mailto:shashankramesh2002@gmail.com)
+AI Security Engineer at **SISA**, specializing in the design and deployment of AI/ML-driven threat detection systems and enterprise security products. Academic background in Artificial Intelligence and Machine Learning, with core expertise in Generative AI, LLM security, and data-driven threat intelligence.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Technical Competencies
 
-| Category | Technologies & Tools |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **AI / Machine Learning** | Python, PyTorch, TensorFlow, Hugging Face, Scikit-Learn, LangChain, OpenCV |
-| **Cybersecurity** | AI Security, Security Analytics, Threat Intelligence |
-| **Development & DevOps** | Git, Docker, Linux, SQL, VS Code, Jupyter |
+| **Artificial Intelligence & ML** | Python, PyTorch, TensorFlow, Hugging Face, Scikit-Learn, LangChain, OpenCV |
+| **Cybersecurity & AI Defense** | AI/ML Model Security, Threat Detection Modeling, Security Analytics, Threat Intelligence |
+| **Engineering & Infrastructure** | Git, Docker, Linux Systems, SQL, REST APIs, CI/CD Pipelines |
 
 ---
 
-## 📊 GitHub Stats
+## Experience & Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Shashank's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+* **AI Security Engineer** | *SISA*
+  * Engineering AI/ML architectures to enhance automated threat analysis and security workflows.
+* **Bachelor of Engineering (B.E.) in AI & Machine Learning** | *BMS Institute of Technology and Management (BMSIT)*
+  * Specialized in Machine Learning algorithms, Deep Learning, and Intelligent Systems.
 
 ---
 
+## GitHub Analytics
+
 <p align="center">
-  <i>"Securing the future of technology with Intelligent Systems."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true" width="48%" alt="Top Languages" />
 </p>
